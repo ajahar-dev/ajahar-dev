@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ajahar Uddin
 
-🎓 BCA student focused on web development  
+🎓 Computer Science student focused on web development  
 💻 Currently working mainly on frontend development
 
 I build web interfaces using:
